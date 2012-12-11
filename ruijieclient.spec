@@ -37,3 +37,11 @@ rm -rf %{buildroot}
 %doc README
 %{_bindir}/ruijieclient
 %config(noreplace) %_sysconfdir/ruijie.conf
+
+
+%changelog
+* Sun Jun 14 2009 Funda Wang <fundawang@mandriva.org> 0.7.0-1mdv2010.0
++ Revision: 385862
+- import ruijieclient
+
+
