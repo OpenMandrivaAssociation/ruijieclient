@@ -1,7 +1,7 @@
 Summary:	A ruijie network supplicant for GNU/Linux
 Name:		ruijieclient
 Version:	0.7.0
-Release:	%mkrel 1
+Release:	2
 License:	LGPLv3+
 Group:		System/Servers
 URL:		http://code.google.com/p/ruijieclient/
