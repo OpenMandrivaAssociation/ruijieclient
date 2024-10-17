@@ -4,7 +4,7 @@ Version:	0.7.0
 Release:	2
 License:	LGPLv3+
 Group:		System/Servers
-URL:		http://code.google.com/p/ruijieclient/
+URL:		https://code.google.com/p/ruijieclient/
 Source:		http://ruijieclient.googlecode.com/files/%{name}-%{version}.tar.bz2
 Source1:	ruijie.conf
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
